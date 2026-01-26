@@ -1,26 +1,41 @@
-<h1 align="center">Hey 👋 I'm a Software Developer</h1>
-<h3 align="center">C++ | Java | Python | OOP | Data Structures</h3>
+<h1 align="center">Hi 👋 I'm Muhammad Fahad Pervez</h1>
+<h3 align="center">Computer Science Student | Software Developer | AI & Data Science Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student (2nd Semester)
-- 💻 Love logic-heavy & system-based projects
-- 🧩 Strong in **OOP & Data Structures**
-- 🚀 Building projects to sharpen real-world skills
+- 🎓 BS Computer Science @ **University of Karachi (UBIT)**
+- 🤖 Enrolled in **AI & Data Science Program** (Saylani Mass IT)
+- 💻 Strong in **OOP, Data Structures & Backend Logic**
+- 🧩 I enjoy building **clean, scalable, real-world systems**
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+
+### 💻 Languages
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+</p>
+
+### 🌐 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
 </p>
 
@@ -28,49 +43,65 @@
 
 ## 📌 Featured Projects
 
+### ☕ Coffee Shop Order Robot
+- Simulates a real barista handling orders & queues
+- Billing logic & realistic order flow
+- Clean **OOP-based backend design**
+- **Tech:** Python, FastAPI, PostgreSQL, React
+
+---
+
+### 💬 Java Chat Application
+- Real-time messaging system
+- Online/offline user indicators
+- Room info dialog with editable settings
+- Smooth JavaFX UI with message bubbles  
+- **Tech:** Java, JavaFX, PostgreSQL
+
+---
+
 ### 📚 Book Shop Management System (C++)
-- Full admin system
+- Admin-controlled system
 - Book & customer management
-- Issue / return books
+- Issue/return workflow
 - Sales, profit & stock tracking
-- Uses **Doubly Linked Lists & Queues**
+- **Data Structures:** Doubly Linked Lists, Queues
 
-### 🏫 Library Management System (C++)
-- Book & customer modules
-- Linked list based architecture
-- Search, update, issue & return
+---
 
-### ⌨️ Type Master (Java + JavaFX)
-- Typing speed test system
-- Accuracy, WPM & error tracking
-- Multiple levels & stages
-- OOP-based design
-
-### 🌍 World Time Zone Converter (8086 Assembly)
-- x86 Assembly (Irvine32)
-- Time conversion logic
-- Low-level programming concepts
+### ⌨️ Type Master
+- Typing speed & accuracy analyzer
+- WPM, error count & character stats
+- Multi-level, multi-stage system
+- **Tech:** Java, JavaFX, OOP
 
 ---
 
 ## 🌱 Currently Learning
-- Python (Zero to Mastery – Andrei Neagoie)
+- Machine Learning (Scikit-Learn basics)
+- Data Cleaning & Manipulation (Pandas, NumPy)
 - Web Scraping
-- Advanced OOP Design
-- x86 Assembly (Irvine32)
+- Advanced Backend Design
+
+---
+
+## 🏆 Achievements
+- 🥉 **4th Position** – Competitive Programming (Devday FAST 2024)
+- 📜 Complete Python Developer – *Andrei Neagoie (Udemy)*
+- 🎓 AI & Data Science Program – *Saylani Mass IT*
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad15fede&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahad15fede&theme=tokyonight" />
 </p>
 
 ---
 
-## ✨ Fun Fact
-I prefer **clean logic over flashy code** 😄
+## 📫 Contact
+- 📧 **Email:** fahadp0909@gmail.com
